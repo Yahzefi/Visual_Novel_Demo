@@ -1,0 +1,98 @@
+.prompt-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 22.5%;
+    height: 22.5%;
+    position: absolute;
+    top: 60%;
+}
+
+.pContainer-normal {
+    left: 57.5%
+}
+
+.pContainer-large {
+    left: 67.5%;
+}
+
+.flash-prompt {
+    display: flex;
+    border-radius: 50%;
+    border: 1px solid black;
+    position: relative;
+}
+
+.prompt-icon {
+    border-radius: 50%;
+    background-color: rgb(50, 15, 150);
+    animation-name: ShadowPulse, FadeIn;
+    animation-duration: 0.75s;
+    animation-timing-function: ease-in-out, ease;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;
+    transition: transform 1.5s ease-in-out;
+}
+
+.icon-normal {
+    min-width: 10px;
+    min-height: 7.5px;
+    width: 2.5%;
+    height: 7.5%;
+    margin-right: 2.25%;
+}
+
+.icon-large {
+    min-width: 20px;
+    min-height: 15px;
+    width: 5%;
+    height: 15%;
+    margin-right: 3.5%;
+}
+
+/* .prompt-front {
+    bottom: 0;
+    background-color: rgba(25, 25, 25, 0.75);
+    animation-name: ShadowPulse, FadeIn;
+    animation-duration: 0.75s;
+    animation-timing-function: ease-in-out, ease;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: both;
+    transform: scale(2);
+    transition: transform 1.5s ease-in-out;
+} */
+
+/* .front-large {
+    min-width: 4%;
+    min-height: 10%;
+    right: 6.55%;
+}
+
+.front-normal {
+    min-width: 2%;
+    min-height: 12.5%;
+    right: 3.75%;
+}
+
+.prompt-back {
+    box-shadow: 0px 4px 8px 4px rgb(50, 100, 125);
+    animation: FadeIn 0.75s ease 0.05s infinite alternate both;
+}
+
+.back-large {
+    min-width: 8%;
+    min-height: 20%;
+}
+
+.back-normal {
+    min-width: 4%;
+    min-height: 25%;
+} */
+
+.prompt-text {
+    color: rgb(150, 100, 255);
+    animation: FadeIn 0.75s linear infinite alternate both;
+    margin-left: 1%;
+}

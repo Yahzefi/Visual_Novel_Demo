@@ -1,0 +1,9 @@
+@keyframes TextSlideUp {
+    from { top: 40%; }
+    to { top: 0%; }
+}
+
+@keyframes TextSlideRight {
+    from { left: -150%; }
+    to { left: 0%; }
+}

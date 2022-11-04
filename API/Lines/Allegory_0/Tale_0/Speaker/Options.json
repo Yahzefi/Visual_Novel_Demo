@@ -1,0 +1,412 @@
+[
+    {
+        "number": 19,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 20,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 21,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-default"
+        }
+    },
+    {
+        "number": 22,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 23,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 24,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 25,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 26,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 27,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 29,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 33,
+        "options": {
+            "expression": {
+                "name": "Gurin",
+                "next": ["tired"]
+        },
+        "backgroundColor": "speakerBackground-default",
+        "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 34,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 35,
+        "options": {
+            "backgroundColor": "speakerBackground-narrator",
+            "textColor": "speakerText-narrator"
+        }
+    },
+    {
+        "number": 36,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 37,
+        "options": {
+            "backgroundColor": "speakerBackground-thought",
+            "textColor": "speakerText-dark"
+        }
+    },
+    {
+        "number": 38,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 39,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 40,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 41,
+        "options": {
+            "backgroundColor": "speakerBackground-narrator",
+            "textColor": "speakerText-narrator"
+        }
+    },
+    {
+        "number": 42,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 43,
+        "options": {
+            "backgroundColor": "speakerBackground-thought",
+            "textColor": "speakerText-dark"
+        }
+    },
+    {
+        "number": 44,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 45,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 46,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 47,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 48,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 49,
+        "options": {
+        "backgroundColor": "speakerBackground-thought",
+        "textColor": "speakerText-dark"
+        }
+    },
+    {
+        "number": 50,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 52,
+        "options": {
+            "backgroundColor": "speakerBackground-narrator",
+            "textColor": "speakerText-narrator"
+        }
+    },
+    {
+        "number": 53,
+        "options": {
+            "backgroundColor": "speakerBackground-narrator",
+            "textColor": "speakerText-narrator"
+        }
+    },
+    {
+        "number": 55,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 56,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 57,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 59,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 60,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 61,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 62,
+        "options": {
+            "backgroundColor": "speakerBackground-thought",
+            "textColor": "speakerText-dark"
+        }
+    },
+    {
+        "number": 63,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 64,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 65,
+        "options": {
+            "backgroundColor": "speakerBackground-thought",
+            "textColor": "speakerText-dark"
+        }
+    },
+    {
+        "number": 66,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 67,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 68,
+        "options": {
+            "backgroundColor": "speakerBackground-default",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 69,
+        "options": {
+            "backgroundColor": "speakerBackground-thought",
+            "textColor": "speakerText-dark"
+        }
+    },
+    {
+        "number": 70,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 71,
+        "options": {
+            "backgroundColor": "speakerBackground-gurin",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 72,
+        "options": {
+            "backgroundColor": "speakerBackground-gurin",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 73,
+        "options": {
+            "backgroundColor": "speakerBackground-narrator",
+            "textColor": "speakerText-narrator"
+        }
+    },
+    {
+        "number": 74,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 75,
+        "options": {
+            "backgroundColor": "speakerBackground-gurin",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 76,
+        "options": {
+            "backgroundColor": "speakerBackground-thought",
+            "textColor": "speakerText-dark"
+        }
+    },
+    {
+        "number": 77,
+        "options": {
+            "backgroundColor": "speakerBackground-gurin",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 78,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 79,
+        "options": {
+            "backgroundColor": "speakerBackground-gurin",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 80,
+        "options": {
+            "backgroundColor": "speakerBackground-gurin",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 81,
+        "options": {
+            "backgroundColor": "speakerBackground-gurin",
+            "textColor": "speakerText-light"
+        }
+    },
+    {
+        "number": 83,
+        "options": {
+            "backgroundColor": "speakerBackground-narrator",
+            "textColor": "speakerText-narrator"
+        }
+    },
+    {
+        "number": 84,
+        "options": {
+            "backgroundColor": "speakerBackground-player",
+            "textColor": "speakerText-light"
+        }
+    }
+]

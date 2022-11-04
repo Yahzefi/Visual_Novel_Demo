@@ -1,0 +1,49 @@
+[
+    {
+        "number": 18,
+        "addPause": null,
+        "updateScene": {
+            "current": "dreamscape-background",
+            "next": "forest-shrine"
+        },
+        "updateBox": {
+            "current": "large",
+            "next": "normal"
+        }
+    },
+    {
+        "number": 27,
+        "addPause": 1000,
+        "updateScene": null,
+        "updateBox": null
+    },
+    {
+        "number": 54,
+        "addPause": 1000,
+        "updateScene": null,
+        "updateBox": null
+    },
+    {
+        "number": 75,
+        "addPause": 500,
+        "updateScene": null,
+        "updateBox": null
+    },
+    {
+        "number": 82,
+        "addPause": 1000,
+        "updateScene": null,
+        "updateBox": null
+    },
+    {
+        "number": 85,
+        "addPause": null,
+        "updateScene": {
+            "scene": {
+                "current": "forest-shrine",
+                "next": "helrichAcademy-front"
+            }
+        },
+        "updateBox": null
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "allegory": { "id": 0, "title": "Prologue: Unorthodox Company" },
+        "tale": { "id": 0, "title": "Tale of the Unknowable", "isFinal": true }
+    },
+    {
+        "allegory": { "id": 1, "title": "" },
+        "tale": { "id": 1, "title": "", "isFinal": false }
+    },
+    {
+        "allegory": { "id": 1, "title": "" },
+        "tale": { "id": 2, "title": "", "isFinal": false }
+    }
+]

@@ -1,0 +1,101 @@
+.character-move {
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
+
+.speed-500 {
+    animation-duration: 0.5s;
+}
+
+.speed-1000 {
+    animation-duration: 1s;
+}
+
+.speed-2000 {
+    animation-duration: 2s;
+}
+
+.offScreen_quarterRight_left {
+    animation-name: OffScreenRightToQuarterRight;
+}
+
+.offScreen_center_left {
+    animation-name: OffScreenRightToCenter;
+}
+
+.offScreen_quarterLeft_left {
+    animation-name: OffScreenRightToQuarterLeft;
+}
+
+.offScreen_offScreen_left {
+    animation-name: OffScreenRightToOffScreenLeft;
+}
+
+.quarterRight_center_left {
+    animation-name: QuarterRightToCenter;
+}
+
+.quarterRight_quarterLeft_left {
+    animation-name: QuarterRightToQuarterLeft;
+}
+
+.quarterRight_offScreen_left {
+    animation-name: QuarterRightToOffScreenLeft;
+}
+
+.center_quarterLeft_left {
+    animation-name: CenterToQuarterLeft;
+}
+
+.center_offScreen_left {
+    animation-name: CenterToOffScreenLeft;
+}
+
+.quarterLeft_offScreen_left {
+    animation-name: QuarterLeftToOffScreenLeft;
+}
+
+.offScreen_quarterLeft_right {
+    animation-name: OffScreenLeftToQuarterLeft;
+}
+
+.offScreen_center_right {
+    animation-name: OffScreenLeftToCenter;
+}
+
+.offScreen_quarterRight_right {
+    animation-name: OffScreenLeftToQuarterRight;
+}
+
+.offScreen_offScreen_right {
+    animation-name: OffScreenLeftToOffScreenRight;
+}
+
+.quarterLeft_center_right {
+    animation-name: QuarterLeftToCenter;
+}
+
+.quarterLeft_quarterRight_right {
+    animation-name: QuarterLeftToQuarterRight;
+}
+
+.quarterLeft_offScreen_right {
+    animation-name: QuarterLeftToOffScreenRight;
+}
+
+.center_quarterRight_right {
+    animation-name: CenterToQuarterRight;
+}
+
+.center_offScreen_right {
+    animation-name: CenterToOffScreenRight;
+}
+
+.quarterRight_offScreen_right {
+    animation-name: QuarterRightToOffScreenRight;
+}
+
+.offScreen_offScreen_right {
+    animation-name: OffScreenLeftToOffScreenRight;
+}
+

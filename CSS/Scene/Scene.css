@@ -1,0 +1,112 @@
+/* @import "../Animations/Scene.css"; */
+
+.scene-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 95vh;
+    overflow: hidden;
+}
+
+.scene-title {
+    font-family: 'Water Brush', cursive;
+    margin: 0;
+    color: rgb(225, 175, 175);
+    font-size: 3.375em;
+    letter-spacing: 0.075em;
+    position: absolute;
+    /* left: 20%;  */
+    z-index: 5;
+}
+
+.titlePosition-center {
+    top: 40%;
+}
+
+.titlePosition-normal {
+    top: 0%;
+}
+
+.animate-title {
+    animation-name: FadeIn, TextSlideUp;
+    animation-duration: 1s, 1s;
+    animation-timing-function: ease, linear;
+    animation-delay: 0s, 2s;
+    animation-fill-mode: forwards;
+}
+
+.scene-chapter {
+    display: flex;
+    font-family: 'Tapestry', cursive;
+    margin: 0;
+    color: rgb(175, 200, 200);
+    font-size: 24px;
+    letter-spacing: 0.25em;
+    position: absolute;
+    top: 10%;
+    z-index: 5;
+}
+
+.scene-title, .scene-chapter {
+    transition: font-size 175ms, top 175ms;
+}
+
+.animate-chapter {
+    animation: FadeIn 1s linear forwards;
+}
+
+@media (width > 815px) and (width < 1200px) {
+    .scene-title {
+        /* left: 5%; */
+        font-size: 2.625em;
+    }
+    .scene-chapter {
+        /* left: 20%; */
+    }
+}
+
+@media (width < 815px) {
+    .scene-title {
+        font-size: 2em;
+        top: 10%;
+    }
+    .scene-chapter {
+        display: none;
+    }
+}
+
+@media (width < 425px) {
+    .scene-title {
+        font-size: 1.25em;
+    }
+}
+
+.scene-transition {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(255, 255, 255, 1);
+    position: fixed;
+    left: 0;
+    top: 0;
+    animation: FadeIn 2s ease-in alternate forwards;
+    animation-iteration-count: 2;
+    z-index: 9;
+}
+
+.scene-dimmer {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(50, 50, 50, 0.75);
+    position: absolute;
+    left: 0;
+    top: 0;
+    animation: FadeIn 1s ease forwards;
+}
+
+.end-screen {
+    font-size: 72px;
+    color: white;
+    margin: 15% auto;
+    width: 75%;
+}

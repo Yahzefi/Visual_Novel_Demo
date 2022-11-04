@@ -1,0 +1,99 @@
+@keyframes OffScreenRightToQuarterRight {
+    from { right: -200% }
+    to { right: -25%; }
+}
+
+@keyframes OffScreenRightToCenter {
+    from { right: -200% }
+    to { right: 0 }
+}
+
+@keyframes OffScreenRightToQuarterLeft {
+    from { right: -200% }
+    to { right: 25% }
+}
+
+@keyframes OffScreenRightToOffScreenRight {
+    from { right: -200% }
+    to { right: 200% }
+}
+
+@keyframes QuarterRightToCenter {
+    from { right: -25% }
+    to { right: 0 }
+}
+
+@keyframes QuarterRightToQuarterLeft {
+    from { right: -25% }
+    to { right: 25% }
+}
+
+@keyframes QuarterRightToOffScreenLeft {
+    from { right: -25% }
+    to { right: 200% }
+}
+
+@keyframes CenterToQuarterLeft {
+    from { right: 0 }
+    to { right: 25% }
+}
+
+@keyframes CenterToOffScreenLeft {
+    from { right: 0 }
+    to { right: 200% }
+}
+
+@keyframes QuarterLeftToOffScreenLeft {
+    from { right: 25% }
+    to { right: 200% }
+}
+
+@keyframes OffScreenLeftToQuarterLeft {
+    from { left: -200% }
+    to { left: -25% }
+}
+
+@keyframes OffScreenLeftToCenter {
+    from { left: -200% }
+    to { left: 0 }
+}
+
+@keyframes OffScreenLeftToQuarterRight {
+    from { left: -200% }
+    to { left: 25% }
+}
+
+@keyframes OffScreenLeftToOffScreenRight {
+    from { left: -200% }
+    to { left: 200% }
+}
+
+@keyframes QuarterLeftToCenter {
+    from { left: -25% }
+    to { left: 0 }
+}
+
+@keyframes QuarterLeftToQuarterRight {
+    from { left: -25% }
+    to { left: 25% }
+}
+
+@keyframes QuarterLeftToOffScreenRight {
+    from { left: -25% }
+    to { left: 200% }
+}
+
+@keyframes CenterToQuarterRight {
+    from { left: 0 }
+    to { left: 25% }
+}
+
+@keyframes CenterToOffScreenRight {
+    from { left: 0 }
+    to { left: 200% }
+}
+
+@keyframes QuarterRightToOffScreenRight {
+    from { left: 25% }
+    to { left: 200% }
+}

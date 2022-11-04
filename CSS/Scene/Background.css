@@ -1,0 +1,27 @@
+.scene-background {
+    width: 100%;
+    flex: 1;
+    background-size: auto;
+    background-position: bottom;
+    animation: FadeIn 5s ease forwards;
+}
+
+.dreamscape-background {
+    background-image: url("../../Images/Backgrounds/introBackground.jpg");
+}
+
+.royal-graveyard {
+    background-image: url("../../Images/Backgrounds/graveyardBackground.webp");
+}
+
+.griz-house {
+    background-image: url("../../Images/Backgrounds/grizHouseBackground.jpeg");
+}
+
+.forest-shrine {
+    background-image: url("../../Images/Backgrounds/forestShrineBackground.jpg");
+}
+
+.helrichAcademy-front {
+    background-image: url("../../Images/Backgrounds/helrichAcademyFront.png");
+}

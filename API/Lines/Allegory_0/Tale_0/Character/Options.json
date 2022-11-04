@@ -1,0 +1,444 @@
+[
+    {
+        "number": 27,
+        "options": {
+            "addCharacter": {
+                "expression": {
+                    "current": "neutral",
+                    "next": null
+                },
+                "position": {
+                    "current": "inactive",
+                    "next": "center"
+                },
+                "animation": {
+                    "direction": {
+                        "current": null,
+                        "next": "left"
+                    },
+                    "duration": 1000
+                }
+            },
+            "moveCharacter": null,
+            "changeExpression": null
+        }
+    },
+    {
+        "number": 29,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "neutral",
+                "next": "happyOpen"
+            }
+        }
+    },
+    {
+        "number": 30,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "happyOpen",
+                "next": "neutral"
+            }
+        }
+    },
+    {
+        "number": 33,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": null,
+                "next": "tired"
+            }
+        }
+    },
+    {
+        "number": 34,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "tired",
+                "next": "curious"
+            }
+        }
+    },
+    {
+        "number": 35,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "curious",
+                "next": "neutral"
+            }
+        }
+    },
+    {
+        "number": 39,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "neutral",
+                "next": "surprised"
+            }
+        }
+    },
+    {
+        "number": 40,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "surprised",
+                "next": "tired"
+            }
+        }
+    },
+    {
+        "number": 41,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "tired",
+                "next": "neutral"
+            }
+        }
+    },
+    {
+        "number": 44,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "neutral",
+                "next": "curious"
+            }
+        }
+    },
+    {
+        "number": 46,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "curious",
+                "next": "nervousSmile"
+            }
+        }
+    },
+    {
+        "number": 47,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "nervousSmile",
+                "next": "happyOpen"
+            }
+        }
+    },
+    {
+        "number": 48,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "happyOpen",
+                "next": "neutral"
+            }
+        }
+    },
+    {
+        "number": 52,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": {
+                "position": {
+                    "current": "center",
+                    "next": "offScreen"
+                },
+                "animation": {
+                    "direction": {
+                        "current": "left",
+                        "next": "left"
+                    },
+                    "duration": 1000
+                },
+                "willDelete": false
+            },
+            "changeExpression": null
+        }
+    },
+    {
+        "number": 53,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": {
+                "position": {
+                    "current": "offScreen",
+                    "next": "center"
+                },
+                "animation": {
+                    "direction": {
+                        "current": "left",
+                        "next": "right"
+                    },
+                    "duration": 1000
+                },
+                "willDelete": false
+            },
+            "changeExpression": null
+        }
+    },
+    {
+        "number": 55,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "neutral",
+                "next": "happyOpen"
+            }
+        }
+    },
+    {
+        "number": 56,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "happyOpen",
+                "next": "surprised"
+            }
+        }
+    },
+    {
+        "number": 57,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "surprised",
+                "next": "curious"
+            }
+        }
+    },
+    {
+        "number": 59,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "curious",
+                "next": "happyOpen"
+            }
+        }
+    },
+    {
+        "number": 60,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "happyOpen",
+                "next": "nervousSmile"
+            }
+        }
+    },
+    {
+        "number": 61,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "nervousSmile",
+                "next": "neutral"
+            }
+        }
+    },
+    {
+        "number": 64,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "neutral",
+                "next": "curious"
+            }
+        }
+    },
+    {
+        "number": 66,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "curious",
+                "next": "happyOpen"
+            }
+        }
+    },
+    {
+        "number": 67,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "happyOpen",
+                "next": "surprised"
+            }
+        }
+    },
+    {
+        "number": 68,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "surprised",
+                "next": "happyOpen"
+            }
+        }
+    },
+    {
+        "number": 69,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "happyOpen",
+                "next": "neutral"
+            }
+        }
+    },
+    {
+        "number": 71,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "neutral",
+                "next": "curious"
+            }
+        }
+    },
+    {
+        "number": 72,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "curious",
+                "next": "happyOpen"
+            }
+        }
+    },
+    {
+        "number": 73,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "happyOpen",
+                "next": "neutral"
+            }
+        }
+    },
+    {
+        "number": 75,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "neutral",
+                "next": "tired"
+            }
+        }
+    },
+    {
+        "number": 76,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "tired",
+                "next": "neutral"
+            }
+        }
+    },
+    {
+        "number": 77,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "neutral",
+                "next": "serious"
+            }
+        }
+    },
+    {
+        "number": 79,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "serious",
+                "next": "happyOpen"
+            }
+        }
+    },
+    {
+        "number": 80,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "happyOpen",
+                "next": "tired"
+            }
+        }
+    },
+    {
+        "number": 81,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": null,
+            "changeExpression": {
+                "current": "tired",
+                "next": "happyOpen"
+            }
+        }
+    },
+    {
+        "number": 82,
+        "options": {
+            "addCharacter": null,
+            "moveCharacter": {
+                "position": {
+                    "current": "center",
+                    "next": "offScreen"
+                },
+                "animation": {
+                    "direction": {
+                        "current": "right",
+                        "next": "right"
+                    },
+                    "duration": 1000
+                },
+                "willDelete": true
+            },
+            "changeExpression": {
+                "current": "happyOpen",
+                "next": "neutral"
+            }
+        }
+    }
+]

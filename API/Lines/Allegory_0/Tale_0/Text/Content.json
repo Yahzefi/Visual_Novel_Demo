@@ -1,0 +1,346 @@
+[
+    {
+        "number": 0,
+        "content": ["Hm..?"]
+    },
+    {
+        "number": 1,
+        "content": ["Strange.  I wasn't expecting any guests today."]
+    },
+    {
+        "number": 2,
+        "content": ["So then, who might you be?"]
+    },
+    {
+        "number": 3,
+        "content": ["PLAYER_NAME", ", was it?  Alright, ", "PLAYER_NAME", ".  Is there something you needed to ask of me?"]
+    },
+    {
+        "number": 4,
+        "content": ["No?  Nothing at all?  Surely your arrival wasn't merely to strike conversation...  Are you sure there isn't anything?"]
+    },
+    {
+        "number": 5,
+        "content": ["How unusual..."]
+    },
+    {
+        "number": 6,
+        "content": ["What's that?  Really?  Though you can hear me, you cannot see me?"]
+    },
+    {
+        "number": 7,
+        "content": ["Tell me, ", "PLAYER_NAME", ".  Are you aware we're currently speaking through a special channel?"]
+    },
+    {
+        "number": 8,
+        "content": ["Ah, I see.  Yes, yes.  It is indeed similar to the concept of telepathy; however, this particular circumstance is quite unprecedented."]
+    },
+    {
+        "number": 9,
+        "content": ["Ahh!  My apologies, I remember now.  We were meant to speak, but now is much too early."]
+    },
+    {
+        "number": 10,
+        "content": ["This is actually rather promising!  Although I'm sure you've many questions, I cannot currently answer them."]
+    },
+    {
+        "number": 11,
+        "content": ["You needn't worry though, I promise we'll speak again."]
+    },
+    {
+        "number": 12,
+        "content": ["You'll need to return soon, but before that I will offer a piece of advice."]
+    },
+    {
+        "number": 13,
+        "content": ["When you awake, your journey will officially begin.  There are endless paths to take, but the choices can feel overwhelming."]
+    },
+    {
+        "number": 14,
+        "content": ["So it might help to start with a general direction, yes?  In which case, travel to Helrich and enroll in the academy there."]
+    },
+    {
+        "number": 15,
+        "content": ["If you have any trouble with the process, find the one in charge of the archives and show them this trinket."]
+    },
+    {
+        "number": 16,
+        "content": ["It will undoubtedly ensure your entrance as a new student.  Now then, it is time."]
+    },
+    {
+        "number": 17,
+        "content": ["Good luck, ", "PLAYER_NAME", ".  I look forward to when our fates realign."]
+    },
+    {
+        "number": 18,
+        "content": [""]
+    },
+    {
+        "number": 19,
+        "content": ["W-Where am I..?"]
+    },
+    {
+        "number": 20,
+        "content": ["Jeez, my head is killing me!  That really was one heck of a dream..."]
+    },
+    {
+        "number": 21,
+        "content": ["As you begin to stand up, you slide your hands into your pockets out of habit.  Suddenly you feel something at the bottom of the left one so you pull it out."]
+    },
+    {
+        "number": 22,
+        "content": ["The trinket?!  W-Wait, so that wasn't a dream?  You're kidding, right?"]
+    },
+    {
+        "number": 23,
+        "content": ["I can't remember seeing a face, but the voice I heard definitely belonged to a guy.  He told me to go somewhere, didn't he..?"]
+    },
+    {
+        "number": 24,
+        "content": ["Oh yeah, Helrich.  I'm supposed to enroll in their academy or whatever..."]
+    },
+    {
+        "number": 25,
+        "content": ["So basically a voice I heard in my head while sleeping wants me to go to school."]
+    },
+    {
+        "number": 26,
+        "content": ["*sigh*", "I get the feeling I'll regret trying, but it's not like I got anything else going for me.  I guess I'll give it a shot."]
+    },
+    {
+        "number": 27,
+        "content": ["Give it a shot, huh?"]
+    },
+    {
+        "number": 28,
+        "content": [""]
+    },
+    {
+        "number": 29,
+        "content": ["Hiya"]
+    },
+    {
+        "number": 30,
+        "content": [""]
+    },
+    {
+        "number": 31,
+        "content": [""]
+    },
+    {
+        "number": 32,
+        "content": [""]
+    },
+    {
+        "number": 33,
+        "content": ["Anywho...  I couldn't help but overhear ya talking about Helrich Academy, but you don't look like a student."]
+    },
+    {
+        "number": 34,
+        "content": ["Also you weren't talking to anyone.  You were just kinda muttering to yourself.  Is everything working alright up there?"]
+    },
+    {
+        "number": 35,
+        "content": ["The absence of any tack from a complete stranger throws you for a loop."]
+    },
+    {
+        "number": 36,
+        "content": ["......"]
+    },
+    {
+        "number": 37,
+        "content": ["Something tells me I should stop talking to myself ASAP...  I don't think guys like this would ever let me live it down if I didn't."]
+    },
+    {
+        "number": 38,
+        "content": ["Y-Yeah, well that's because I'm not.  Which is exactly why I came here to change that."]
+    },
+    {
+        "number": 39,
+        "content": ["Oh..?  Is that so?"]
+    },
+    {
+        "number": 40,
+        "content": ["My poor sweet summer child...  Now why would you go and make a dumpster like that your goal?"]
+    },
+    {
+        "number": 41,
+        "content": ["You immediately find yourself back in the awkward conversation corner you'd just barely managed to crawl out of moments ago."]
+    },
+    {
+        "number": 42,
+        "content": ["Wait, I don't understand.  Isn't Helrich Academy highly regarded by people throughout all of Luxaris?"]
+    },
+    {
+        "number": 43,
+        "content": ["I say even though I'm only going off of what the guy in my head told me.  Oh god...  Maybe everything isn't working quite right for me upstairs."]
+    },
+    {
+        "number": 44,
+        "content": ["You really are an odd one, huh?"]
+    },
+    {
+        "number": 45,
+        "content": ["You sound just like them, but look and act the complete opposite!"]
+    },
+    {
+        "number": 46,
+        "content": ["Although I guess I'm generalizing.  Apparently that's all I'm good at with those students..."]
+    },
+    {
+        "number": 47,
+        "content": ["But hey, that's just what the ex-wifey says, so it ain't like I give a crap."]
+    },
+    {
+        "number": 48,
+        "content": ["Anyway, if that's what your plan is then you might as well walk with me.  I'm heading there after I'm done here."]
+    },
+    {
+        "number": 49,
+        "content": ["I'm pretty sure I shouldn't put too much faith in this guy, but then again it might be fate he showed up as soon as I woke up from that dream."]
+    },
+    {
+        "number": 50,
+        "content": ["Alright, I'll-"]
+    },
+    {
+        "number": 51,
+        "content": [""]
+    },
+    {
+        "number": 52,
+        "content": ["The possible new acquiantance abruptly walks away from you, moving towards the shrine alter."]
+    },
+    {
+        "number": 53,
+        "content": ["After a couple of minutes he places an offering and leaves the alter."]
+    },
+    {
+        "number": 54,
+        "content": ["..."]
+    },
+    {
+        "number": 55,
+        "content": ["Okie dokie all good to go.  C'mon then, there's only so much given daylight."]
+    },
+    {
+        "number": 56,
+        "content": ["Oh, I almost forgot.  Why are you even here?"]
+    },
+    {
+        "number": 57,
+        "content": ["What do you mean why?  Wait, is this place off limits or something?"]
+    },
+    {
+        "number": 58,
+        "content": [""]
+    },
+    {
+        "number": 59,
+        "content": ["Ah no, no.  It's nothing like that.  I've made it a habit to stop by here every few days or so for the last five years."]
+    },
+    {
+        "number": 60,
+        "content": ["All that time, and I've only ever seen the shrine caretaker's here."]
+    },
+    {
+        "number": 61,
+        "content": ["A-Ah well..."]
+    },
+    {
+        "number": 62,
+        "content": ["Crap.  Now that I think about it I have no idea how I got here."]
+    },
+    {
+        "number": 63,
+        "content": ["I'm pretty bad with directions, so I guess I veered off the right path somewhere along the way."]
+    },
+    {
+        "number": 64,
+        "content": ["Lost, huh?  You don't say..."]
+    },
+    {
+        "number": 65,
+        "content": ["This isn't good.  I had to give some reason, but I think I just ended up raising red flags."]
+    },
+    {
+        "number": 66,
+        "content": ["Well it looks like you and I have a mutual affliction, kid!  I get lost all the time, so I totally get it."]
+    },
+    {
+        "number": 67,
+        "content": ["Ah man, I just realized I haven't even introduced myself yet!"]
+    },
+    {
+        "number": 68,
+        "content": ["*Ahem*", "  Lassiter.  Gurin Lassister.  The man, the myth, the positively down nasty sex machine.  You'll probably end up callin' me Mr. Lassiter though.  We can't neglect our sense of professionalism, am I right?"]
+    },
+    {
+        "number": 69,
+        "content": ["Professionalism?  Yeah, right.  Wait...  He did say something about \"the students\" before."]
+    },
+    {
+        "number": 70,
+        "content": ["I take it that means you're an instructor at Helrich?"]
+    },
+    {
+        "number": 71,
+        "content": ["Oh, did I not say?  Yup, I sure am."]
+    },
+    {
+        "number": 72,
+        "content": ["I'll have you know I'm pretty high up the pecking order too.  I mean it's no surprise, I've been told I exude an aura of authority and command respect when I enter a room."]
+    },
+    {
+        "number": 73,
+        "content": ["You suddenly feel as though your body might shrivel up and collapse from disbelief; though, somehow you're able to refrain from laughing at his disproportionate choice of words."]
+    },
+    {
+        "number": 74,
+        "content": ["Y-Yeah, I think I know what you mean, Mr. Lassiter."]
+    },
+    {
+        "number": 75,
+        "content": ["Your boot-licking isn't very polished, but that's a good thing.  It's fine when its out of kindness, but remember to never do it out of fear."]
+    },
+    {
+        "number": 76,
+        "content": ["Huh.  That's probably the most decent thing he's said.  Maybe he's not..."]
+    },
+    {
+        "number": 77,
+        "content": ["At least that's what my ogre of an ex-wife used to tell me.  I guess I shouldn't give advice that came from a filthy mouth, huh?"]
+    },
+    {
+        "number": 78,
+        "content": ["......."]
+    },
+    {
+        "number": 79,
+        "content": ["Anyway, we should head to the academy.  Your first day, and you're already this late...  It does not bode well for you, kiddo."]
+    },
+    {
+        "number": 80,
+        "content": ["Headmaster Yarth really hates tardy students...  Eh, oh well."]
+    },
+    {
+        "number": 81,
+        "content": ["I'm sure you'll figure something out!"]
+    },
+    {
+        "number": 82,
+        "content": [""]
+    },
+    {
+        "number": 83,
+        "content": ["Once again, before you can reply he begins walking in the other direction."]
+    },
+    {
+        "number": 84,
+        "content": ["H-Hey!"]
+    },
+    {
+        "number": 85,
+        "content": [""]
+    }
+]

@@ -1,0 +1,24 @@
+@keyframes HorizontalExpandLarge {
+    from { width: 0% }
+    to { width: 75% }
+}
+
+@keyframes HorizontalExpandNormal {
+    from { width: 0% }
+    to { width: 66% }
+}
+
+@keyframes HorizontalCollapseLarge {
+    from { width: 75% }
+    to { width: 0% }
+}
+
+@keyframes HorizontalCollapseNormal {
+    from { width: 66% }
+    to { width: 0% }
+}
+
+@keyframes ShadowPulse {
+    from { box-shadow: 0px 0px 0px 0px rgb(50, 15, 150) }
+    to { box-shadow: 0px 0px 8px 4px rgb(75, 25, 200) }
+}

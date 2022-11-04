@@ -1,0 +1,130 @@
+[
+    {
+        "number": 30,
+        "id": "A0_C0_E0",
+        "lines": [
+            {
+                "key": 0,
+                "target": "Player",
+                "isFinal": false,
+                "text": {
+                    "content": ["Hello, sir.", "Hiya.", "Sup."],
+                    "options": {
+                        "isStyled": true,
+                        "size": null,
+                        "tags": {
+                            "fontStyles": [["textStyle-bold"], ["textStyle-bold"], ["textStyle-bold"]],
+                            "colors": [["textColor-normal"], ["textColor-normal"], ["textColor-normal"]]
+                        }
+                    }
+                },
+                "speaker": {
+                    "name": "Player",
+                    "alias": "You",
+                    "options": {
+                        "isThought": false,
+                        "backgroundColor": "speakerBackground-player",
+                        "textColor": "speakerText-player"
+                    }
+                },
+                "character": null,
+                "options": {
+                    "scene": {
+                        "addPause": null,
+                        "updateScene": null,
+                        "updateBox": null
+                    }
+                }
+            },
+            {
+                "key": 1,
+                "target": "Narrator",
+                "isFinal": false,
+                "text": {
+                    "content": [
+                        "You respond with a textbook reply.  It's likely this conversation will follow the formula used in thousands of other pointless interactions you've had with new people.", 
+                        "You respond by using the opponent's own words against him.  You recognize it as a classic use of communication.", 
+                        "For some reason you say the least normal response possible.  You quickly realize this man could be somebody's father, and begin to worry an incredibly painful awkward silence will follow."
+                    ],
+                    "options": {
+                        "isStyled": true,
+                        "size": { "current": "text-normal", "next": "text-narrator" },
+                        "tags": {
+                            "fontStyles": [["textStyle-italic", "textStyle-bold"], ["textStyle-italic", "textStyle-bold"], ["textStyle-italic", "textStyle-bold"]],
+                            "colors": [["textColor-narrator"], ["textColor-narrator"], ["textColor-narrator"]]
+                        }
+                    }
+                },
+                "speaker": {
+                    "name": "Narrator",
+                    "alias": "Narrator",
+                    "options": {
+                        "isThought": false,
+                        "backgroundColor": "speakerBackground-narrator",
+                        "textColor": "speakerText-narrator"
+                    }
+                },
+                "character": null,
+                "options": {
+                    "scene": {
+                        "addPause": null,
+                        "updateScene": null,
+                        "updateBox": null
+                    }
+                }
+            },
+            {
+                "key": 2,
+                "target": "Other",
+                "isFinal": true,
+                "text": {
+                    "content": [
+                        "Awh man, a proper response?  How boring...", 
+                        "Whoa.  Is that how lame \"Hiya\" sounds to people when I say it?", 
+                        "Alright so like...  Yeah, that was pretty bad.  So uh...  Do you wanna maybe try that again?"
+                    ],
+                    "options": {
+                        "isStyled": false,
+                        "size": null,
+                        "tags": {
+                            "fontStyles": [["textStyle-normal"], ["textStyle-normal"], ["textStyle-normal"]],
+                            "colors": [["textColor-normal"], ["textColor-normal"], ["textColor-normal"]]
+                        }
+                    }
+                },
+                "speaker": {
+                    "name": "Gurin",
+                    "alias": null,
+                    "options": {
+                        "isThought": false,
+                        "backgroundColor": "speakerBackground-default",
+                        "textColor": "speakerText-light"
+                    }
+                },
+                "character": {
+                    "name": "Gurin",
+                    "data": {
+                        "alias": null,
+                        "id": "charImg_Gurin",
+                        "isNew": false
+                    },
+                    "options": {
+                        "addCharacter": null,
+                        "moveCharacter": null,
+                        "changeExpression": {
+                            "current": "neutral",
+                            "next": ["tired", "surprised", "nervousSmile"]
+                        }
+                    }
+                },
+                "options": {
+                    "scene": {
+                        "addPause": null,
+                        "updateScene": null,
+                        "updateBox": { "current": "narrator", "next": "normal" }
+                    }
+                }
+            }
+        ]
+    }
+]

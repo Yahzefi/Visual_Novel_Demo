@@ -1,0 +1,5 @@
+@media (width < 1200px) {
+    #menuTitle {
+        font-size: 36px;
+    }
+}

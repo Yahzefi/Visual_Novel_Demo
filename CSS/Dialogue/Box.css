@@ -1,0 +1,83 @@
+.dialogue-container {
+    display: flex;
+    width: 100%;
+    position: absolute;
+    justify-content: center;
+    z-index: 2;
+}
+
+.container-large {
+    min-height: 75%;
+    bottom: 5%;
+}
+
+.container-normal {
+    min-height: 33%;
+    bottom: 0;
+    background: linear-gradient(rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.5) 75%, rgba(0, 0, 0, 0.25) 100%);
+    animation: FadeIn linear forwards 1s;
+}
+
+.dialogue-box {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(50, 50, 50, 0.75);
+    width: 75%;
+    z-index: 3;
+}
+
+.dialogue-open {
+    animation-timing-function: linear, linear;
+    animation-fill-mode: forwards, forwards;
+    animation-duration: 1s, 0.5s;
+}
+
+.open-normal {
+    animation-name: FadeIn, HorizontalExpandNormal;
+}
+
+.open-large {
+    animation-name: FadeIn, HorizontalExpandLarge;
+}
+
+.dialogue-close {
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
+
+.close-normal {
+    animation-name: HorizontalCollapseNormal, FadeOut;
+}
+
+.close-large {
+    animation-name: HorizontalCollapseLarge, FadeOut;
+}
+
+.box-normal {
+    border: 0.1em dotted rgb(0, 0, 0);
+    border-radius: 1.25em;
+    box-shadow: 0px 0px 8px 2px rgb(25, 25, 25);
+    margin: 0.25% 0;
+}
+
+.box-large {
+    align-items: center;
+    box-shadow: none;
+    border: 0.15em solid black;
+    margin: 5% auto;
+}
+
+/* buttons for save, load, etc. go here */
+
+.speaker-container {
+    border-bottom: 1.5px solid black;
+    border-radius: 1em;
+    padding: 0 0 0 2.75%;
+    min-height: 42px;
+    animation: FadeIn 1s ease forwards;
+}
+
+.speakerBackground-default {
+    background-color: rgba(200, 200, 200, 0.25);
+}

@@ -1,0 +1,387 @@
+[
+    {
+        "number": 0,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 1,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 2,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 3,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [["textStyle-bold", "textStyle-highlight", "textStyle-italic"], null, ["textStyle-bold", "textStyle-highlight", "textStyle-italic"], null],
+                "colors": [["textColor-normal"], ["textColor-thought"], ["textColor-normal"], ["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 4,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 5,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 6,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 7,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null, ["textStyle-bold", "textStyle-highlight", "textStyle-italic"], null],
+                "colors": [["textColor-thought"], null, ["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 8,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 9,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 10,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 11,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 12,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 13,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 14,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 15,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 16,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 17,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-large" },
+            "tags": {
+                "fontStyles": [null, ["textStyle-bold", "textStyle-highlight", "textStyle-italic"], null],
+                "colors": [["textColor-thought"], null, ["textColor-thought"]]
+            }
+        }    
+    },
+    {
+        "number": 19,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-large", "next": "text-normal" },
+            "tags": {
+                "fontStyles": null,
+                "colors": null
+            }
+        }    
+    },
+    {
+        "number": 26,
+        "options": {
+            "isStyled": true,
+            "size": null,
+            "tags": {
+                "fontStyles": [["textStyle-italic"], null],
+                "colors": [null, null]
+            }
+        }    
+    },
+    {
+        "number": 35,
+        "options": {
+            "isStyled": true,
+            "size": null,
+            "tags": {
+                "fontStyles": [["textStyle-italic", "textStyle-bold"]],
+                "colors": [["textColor-narrator"]]
+            }
+        }
+    },
+    {
+        "number": 36,
+        "options": {
+            "isStyled": true,
+            "size": null,
+            "tags": {
+                "fontStyles": [["textStyle-normal"]],
+                "colors": [["textColor-normal"]]
+            }
+        }
+    },
+    {
+        "number": 37,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-thought" },
+            "tags": {
+                "fontStyles": [["textStyle-italic"]],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 41,
+        "options": {
+            "isStyled": true,
+            "size": null,
+            "tags": {
+                "fontStyles": [["textStyle-italic", "textStyle-bold"]],
+                "colors": [["textColor-narrator"]]
+            }
+        }
+    },
+    {
+        "number": 43,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-thought" },
+            "tags": {
+                "fontStyles": [["textStyle-italic"]],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 49,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-thought" },
+            "tags": {
+                "fontStyles": [["textStyle-italic"]],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 52,
+        "options": {
+            "isStyled": true,
+            "size": null,
+            "tags": {
+                "fontStyles": [["textStyle-italic", "textStyle-bold"]],
+                "colors": [["textColor-narrator"]] 
+            }
+        }
+    },
+    {
+        "number": 53,
+        "options": {
+            "isStyled": true,
+            "size": null,
+            "tags": {
+                "fontStyles": [["textStyle-italic", "textStyle-bold"]],
+                "colors": [["textColor-narrator"]] 
+            }
+        }
+    },
+    {
+        "number": 62,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-thought" },
+            "tags": {
+                "fontStyles": [["textStyle-italic"]],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 65,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-thought" },
+            "tags": {
+                "fontStyles": [["textStyle-italic"]],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 68,
+        "options": {
+            "isStyled": true,
+            "size": null,
+            "tags": {
+                "fontStyles": [["textStyle-bold"], null],
+                "colors": [null, null]
+            }
+        }
+    },
+    {
+        "number": 69,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-thought" },
+            "tags": {
+                "fontStyles": [["textStyle-italic"]],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 73,
+        "options": {
+            "isStyled": true,
+            "size": null,
+            "tags": {
+                "fontStyles": [["textStyle-italic", "textStyle-bold"]],
+                "colors": [["textColor-narrator"]]
+            }
+        }
+    },
+    {
+        "number": 76,
+        "options": {
+            "isStyled": true,
+            "size": { "current": "text-normal", "next": "text-thought" },
+            "tags": {
+                "fontStyles": [["textStyle-italic"]],
+                "colors": [["textColor-thought"]]
+            }
+        }
+    },
+    {
+        "number": 83,
+        "options": {
+            "isStyled": true,
+            "size": null,
+            "tags": {
+                "fontStyles": [["textStyle-italic", "textStyle-bold"]],
+                "colors": [["textColor-narrator"]]
+            }
+        }
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+        "number": 19,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 20,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 21,
+        "name": "Narrator",
+        "alias": ""
+    },
+    {
+        "number": 22,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 23,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 24,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 25,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 26,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 27,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 29,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 33,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 34,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 35,
+        "name": "Narrator",
+        "alias": "Narrator"
+    },
+    {
+        "number": 36,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 37,
+        "name": "Thought",
+        "alias": "You"
+    },
+    {
+        "number": 38,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 39,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 40,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 41,
+        "name": "Narrator",
+        "alias": "Narrator"
+    },
+    {
+        "number": 42,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 43,
+        "name": "Thought",
+        "alias": "You"
+    },
+    {
+        "number": 44,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 45,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 46,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 47,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 48,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 49,
+        "name": "Thought",
+        "alias": "You"
+    },
+    {
+        "number": 50,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 52,
+        "name": "Narrator",
+        "alias": "Narrator"
+    },
+    {
+        "number": 53,
+        "name": "Narrator",
+        "alias": "Narrator"
+    },
+    {
+        "number": 55,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 56,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 57,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 59,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 60,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 61,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 62,
+        "name": "Thought",
+        "alias": "You"
+    },
+    {
+        "number": 63,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 64,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 65,
+        "name": "Thought",
+        "alias": "You"
+    },
+    {
+        "number": 66,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 67,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 68,
+        "name": "Gurin",
+        "alias": null
+    },
+    {
+        "number": 69,
+        "name": "Thought",
+        "alias": "You"
+    },
+    {
+        "number": 70,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 71,
+        "name": "Gurin",
+        "alias": "Mr. Lassiter"
+    },
+    {
+        "number": 72,
+        "name": "Gurin",
+        "alias": "Mr. Lassiter"
+    },
+    {
+        "number": 73,
+        "name": "Narrator",
+        "alias": "Narrator"
+    },
+    {
+        "number": 74,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 75,
+        "name": "Gurin",
+        "alias": "Mr. Lassiter"
+    },
+    {
+        "number": 76,
+        "name": "Thought",
+        "alias": "You"
+    },
+    {
+        "number": 77,
+        "name": "Gurin",
+        "alias": "Mr. Lassiter"
+    },
+    {
+        "number": 78,
+        "name": "Player",
+        "alias": "You"
+    },
+    {
+        "number": 79,
+        "name": "Gurin",
+        "alias": "Mr. Lassiter"
+    },
+    {
+        "number": 80,
+        "name": "Gurin",
+        "alias": "Mr. Lassiter"
+    },
+    {
+        "number": 81,
+        "name": "Gurin",
+        "alias": "Mr. Lassiter"
+    },
+    {
+        "number": 83,
+        "name": "Narrator",
+        "alias": "Narrator"
+    },
+    {
+        "number": 84,
+        "name": "Player",
+        "alias": "You"
+    }
+]

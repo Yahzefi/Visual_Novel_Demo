@@ -1,0 +1,54 @@
+/* base styling */
+    .character-image {
+        max-height: 60%;
+        position: relative;
+        top: 12.75%;
+        z-index: 0;
+    }
+
+/* initialization styling */
+
+    /* inactive characters remain off-screen above scene window */
+    .start-inactive {
+        bottom: 200%;
+    }
+
+    .start-center-left {
+        left: 0;
+    }
+
+    .start-center-right {
+        right: 0;
+    }
+
+    .start-offScreen-left {
+        left: -200%;
+    }
+
+    .start-offScreen-right {
+        right: -200%;
+    }
+
+    .character-fadeIn {
+        animation: FadeIn 0.75s ease forwards;
+    }
+
+    .character-fadeOut {
+        animation: FadeOut 0.75s ease forwards;
+    }
+
+/* character expression styling */
+
+    .expression-change {
+        animation-duration: 0.25s;
+        animation-timing-function: ease-in-out;
+        animation-fill-mode: forwards;
+    }
+
+    .expression-enter {
+        animation-name: FadeIn;
+    }
+
+    .expression-exit {
+        animation-name: FadeOut;
+    }

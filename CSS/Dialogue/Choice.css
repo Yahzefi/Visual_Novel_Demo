@@ -1,0 +1,15 @@
+.choice-container {
+    display: flex;
+    justify-content: center;
+}
+
+.choice-text {
+    font-family: 'Tapestry', cursive;
+    color: red;
+    font-size: 28px;
+}
+
+.choice-text:hover {
+    cursor: pointer;
+    color: rgb(150, 0, 0);
+}
